@@ -4,14 +4,14 @@
  Source Server         : Elon`s Remote MySQL
  Source Server Type    : MySQL
  Source Server Version : 80020 (8.0.20)
- Source Host           : 192.168.31.75:3306
+ Source Host           : 192.168.31.77:3306
  Source Schema         : demo
 
  Target Server Type    : MySQL
  Target Server Version : 80020 (8.0.20)
  File Encoding         : 65001
 
- Date: 01/06/2024 09:44:45
+ Date: 01/06/2024 16:30:46
 */
 
 SET NAMES utf8mb4;
